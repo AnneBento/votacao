@@ -1,4 +1,4 @@
-# Trabalho 1 - Comunicação entre Processos (Sistemas Distribuídos)
+# Comunicação entre projetos
 
 ## Estrutura do Projeto
 - modelo/: POJOs (Candidato, Eleitor)
